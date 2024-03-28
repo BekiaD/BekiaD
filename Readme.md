@@ -19,4 +19,6 @@ Hi 👋, I am **Rebeka** an enthusiastic and ambitious full stack developer. I s
 
 ### My favorite projects
 
-[![]()]()
+[📨 Newsletter Signup Form with Success Message](https://github.com/BekiaD/7-newsletter-signup-form-with-success-message)
+
+[🐈 Cat Meme Picker](https://github.com/BekiaD/Meme-picker)
