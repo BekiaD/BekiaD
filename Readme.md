@@ -22,3 +22,11 @@ Hi 👋, I am **Rebeka** an enthusiastic and ambitious full stack developer. I s
 [📨 Newsletter Signup Form with Success Message](https://github.com/BekiaD/7-newsletter-signup-form-with-success-message)
 
 [🐈 Cat Meme Picker](https://github.com/BekiaD/Meme-picker)
+
+[👵🏻 Age Calculator App](https://github.com/BekiaD/4-age-calculator-app)
+
+[🪧 Blog Preview Card](https://github.com/BekiaD/5-blog-previev-card)
+
+
+
+
