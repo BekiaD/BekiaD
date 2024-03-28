@@ -9,7 +9,7 @@ Hi 👋, I am **Rebeka** an enthusiastic and ambitious full stack developer. I s
 - 👩🏼‍💻 All of my projects will be soon available on my portfolio
 </details>
 
-###My languages
+### My languages
 
 [![My Skills](https://skillicons.dev/icons?i=html,cs,js&theme=dark)](https://skillicons.dev)
 
