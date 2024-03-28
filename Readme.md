@@ -11,7 +11,7 @@ Hi 👋, I am **Rebeka** an enthusiastic and ambitious full stack developer. I s
 
 ### My languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,cs,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
 
 ### My technologies
 
