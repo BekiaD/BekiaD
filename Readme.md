@@ -27,6 +27,14 @@ Hi 👋, I am **Rebeka** an enthusiastic and ambitious full stack developer. I s
 
 [🪧 Blog Preview Card](https://github.com/BekiaD/5-blog-previev-card)
 
+### Practicing React
+[🏡 Airbnb clone (project 1)](https://github.com/BekiaD/Airbnb-Clone-React)
+
+[🪪 Digital Business Card (project 2)](https://github.com/BekiaD/SP-Digital-business-Card)
+
+[🌴 Travel Journal (project 3)](https://github.com/BekiaD/SP-React-Travel-Journal)
+
+[🎰 Lucky7 (project 4)](https://github.com/BekiaD/Lucy7-Game-REACT)
 
 
 
