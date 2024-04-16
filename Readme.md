@@ -18,10 +18,11 @@ Hi 👋, I am **Rebeka** an enthusiastic and ambitious full stack developer. I s
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,express,mongodb,firebase,notion&theme=dark)](https://skillicons.dev)
 
 ### Currently working on...
-[💳 Interactive card details page](https://github.com/BekiaD/9-interactive-card-detail-form)
+
 
 
 ### My favorite projects
+[💳 Interactive card details page](https://github.com/BekiaD/9-interactive-card-detail-form)
 
 [📨 Newsletter Signup Form with Success Message](https://github.com/BekiaD/7-newsletter-signup-form-with-success-message)
 
