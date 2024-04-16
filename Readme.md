@@ -18,7 +18,7 @@ Hi 👋, I am **Rebeka** an enthusiastic and ambitious full stack developer. I s
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,express,mongodb,firebase,notion&theme=dark)](https://skillicons.dev)
 
 ### Currently working on...
-
+[⏰ Time trackign dashboard](https://github.com/BekiaD/3--time-tracking-dashboard)
 
 
 ### My favorite projects
