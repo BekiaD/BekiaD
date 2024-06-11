@@ -2,9 +2,8 @@
 Hi 👋, I am **Rebeka** an enthusiastic and ambitious full stack developer. I specialise in Front-end Development, JavaScript and Design.
 <details>
 <summary>👱🏻‍♀️ More about me</summary>
-- 🔭 I’m currently on a journey to build **great** things
 
-- 🌱 I’m currently learning **everything** 🤓
+- 🌱 I’m currently learning **Web Design, UI & UX Design** 🤓
   
 - 👩🏼‍💻 All of my projects will be soon available on my portfolio
 </details>
@@ -18,10 +17,14 @@ Hi 👋, I am **Rebeka** an enthusiastic and ambitious full stack developer. I s
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,express,mongodb,firebase,notion&theme=dark)](https://skillicons.dev)
 
 ### Currently working on...
-[⏰ Time trackign dashboard](https://github.com/BekiaD/3--time-tracking-dashboard)
 
+
+### I actually do love CSS...
+[⚔️ CSS batlles](https://github.com/BekiaD/cssbattle/tree/main)
 
 ### My favorite projects
+[⏰ Time trackign dashboard](https://github.com/BekiaD/3--time-tracking-dashboard)
+
 [💳 Interactive card details page](https://github.com/BekiaD/9-interactive-card-detail-form)
 
 [📨 Newsletter Signup Form with Success Message](https://github.com/BekiaD/7-newsletter-signup-form-with-success-message)
