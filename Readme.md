@@ -18,6 +18,8 @@ Hi 👋, I am **Rebeka** an enthusiastic and ambitious full stack developer. I s
 
 ### Currently working on...
 
+[💭 Quizzical React Trivia](https://github.com/BekiaD/Quizzical-React-Solo-Project)
+
 
 ### I actually do love CSS...
 [⚔️ CSS batlles](https://github.com/BekiaD/cssbattle/tree/main)
