@@ -1,4 +1,4 @@
-![My banner](https://i.imgur.com/LypfLp8.png)
+
 Hi 👋, I am **Rebeka** an enthusiastic and ambitious full stack developer. I specialise in Front-end Development, JavaScript and Design.
 <details>
 <summary>👱🏻‍♀️ More about me</summary>
